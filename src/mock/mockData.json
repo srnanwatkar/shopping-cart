@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "itemCode": "Apple_Shopping_Cart",
+      "itemName": "Apple",
+      "offerCode": null,
+      "offerLabel": "",
+      "price": 35
+    },
+    {
+      "itemCode": "Banana_Shopping_Cart",
+      "itemName": "Banana",
+      "offerCode": null,
+      "offerLabel": "",
+      "price": 20
+    },
+    {
+      "itemCode": "Melons_Shopping_Cart",
+      "itemName": "Melons",
+      "offerCode": "BUY_1_GET_1",
+      "offerLabel": "Buy 1 get 1 free",
+      "price": 50
+    },
+    {
+      "itemCode": "Limes_Shopping_Cart",
+      "itemName": "Limes",
+      "offerCode": "BUY_3_FOR_2",
+      "offerLabel": "3 for price of 2",
+      "price": 15
+    }
+  ]
+}
